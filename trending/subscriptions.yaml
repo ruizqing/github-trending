@@ -1,0 +1,6 @@
+schema: 1
+subscriptions:
+    - jakubkrehel/skills
+    - Usagi-org/ai-goofish-monitor
+    - anthropics/skills
+    - vercel-labs/agent-browser
